@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gsegon
-- 👀 I’m interested in everything.
+- 👀 I’m interested in everything!
 
 <!---
 gsegon/gsegon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
